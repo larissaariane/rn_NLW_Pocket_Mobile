@@ -1,5 +1,7 @@
 # Nearby App
-O projeto é um aplicativo mobile de clube de benefícios com cupons para utilizar em estabelecimentos próximos a você.
+
+O **Nearby App** é um aplicativo mobile de **clube de benefícios**, que permite encontrar e utilizar **cupons em estabelecimentos próximos** a você.  
+
 
 ---
 
