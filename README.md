@@ -17,4 +17,4 @@ O **Nearby App** é um aplicativo mobile de **clube de benefícios**, que permit
 
 ---
 
-Esse projeto foi criado durante o evento de NLW Pocket Mobile na Rocketseat 🚀
+🚀 Esse projeto foi criado durante o evento de NLW Pocket Mobile na **Rocketseat** 
