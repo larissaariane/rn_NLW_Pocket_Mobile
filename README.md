@@ -15,4 +15,4 @@ O projeto é um aplicativo mobile de clube de benefícios com cupons para utiliz
 
 ---
 
-Esse projeto foi criado durante a aula de React na Rocketseat 🚀
+Esse projeto foi criado durante o evento de NLW Pocket Mobile na Rocketseat 🚀
